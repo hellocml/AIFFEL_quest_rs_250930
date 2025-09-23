@@ -6,12 +6,6 @@ AIFFEL_QUEST_RS
   사용합니다.
 
 ```
-여기에 코드 넣기
-```
-
-
-
-'''
 레포 구조
 
 AIFFEL_QUEST_RS
@@ -115,4 +109,4 @@ AIFFEL_QUEST_RS
     │
     └─Quest05
             README.md
-'''
+```
